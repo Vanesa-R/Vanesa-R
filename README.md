@@ -3,18 +3,30 @@
 Mi nombre es Vanesa y soy Frontend Developer.
 
 
-<!--
 
 ### Lenguajes
+![HTML](https://github.com/Vanesa-R/Vanesa-R/blob/main/html5.png)
+![CSS](https://github.com/Vanesa-R/Vanesa-R/blob/main/css.png)
+![JavaScript](https://github.com/Vanesa-R/Vanesa-R/blob/main/javascript.png)
 
 
- 
-### Un poco más sobre mí
+ <!--
+### Resumen
 
 ``` javascript
 const vanesa = {
-  code: ["HTML", "CSS", "JavaScript"],
-  tools: ["VSCode", "Gulp", "Git Bash", "Docker"],
+
+    profile: {
+        name: "Vanesa Rodríguez",
+        profession:   ,
+    },
+    
+    skills: {
+         languages: ["HTML", "CSS", "JavaScript", "Java"],
+         tools: ["VSCode", "Gulp", "Git Bash", "Docker"],
+
+    }
+    
 }
 ```
 
