@@ -1,7 +1,26 @@
-### Hi there 👋
+# ¡Hola! 👋
+
+Mi nombre es Vanesa y soy Frontend Developer.
+
 
 <!--
-**Vanesa-R/Vanesa-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Lenguajes
+
+
+ 
+### Un poco más sobre mí
+
+``` javascript
+const vanesa = {
+  code: ["HTML", "CSS", "JavaScript"],
+  tools: ["VSCode", "Gulp", "Git Bash", "Docker"],
+}
+```
+
+-->
+
+<!--
 
 Here are some ideas to get you started:
 
@@ -11,6 +30,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
