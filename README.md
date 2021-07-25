@@ -10,7 +10,7 @@ Mi nombre es Vanesa y soy Frontend Developer.
 ![JavaScript](https://github.com/Vanesa-R/Vanesa-R/blob/main/javascript.png)
 
 
- <!--
+
 ### Resumen
 
 ``` javascript
@@ -18,19 +18,18 @@ const vanesa = {
 
     profile: {
         name: "Vanesa Rodríguez",
-        profession:   ,
     },
     
     skills: {
-         languages: ["HTML", "CSS", "JavaScript", "Java"],
+         languages: ["HTML", "CSS", "JavaScript", "Java", "SQL"],
+         prepocessors: ["Sass", "Pug"],
          tools: ["VSCode", "Gulp", "Git Bash", "Docker"],
-
+         database: "MySQL",
+         cms: "WordPress",
     }
-    
 }
 ```
 
--->
 
 <!--
 
