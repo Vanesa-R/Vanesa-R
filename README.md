@@ -18,6 +18,7 @@ const vanesa = {
 
     profile: {
         name: "Vanesa Rodríguez",
+        role: "Front-end developer"
     },
     
     skills: {
