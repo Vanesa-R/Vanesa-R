@@ -10,6 +10,15 @@ Mi nombre es Vanesa y soy Frontend Developer.
 ![JavaScript](https://github.com/Vanesa-R/Vanesa-R/blob/main/javascript.png)
 
 
+![Sass](https://github.com/Vanesa-R/Vanesa-R/blob/main/sass.png)
+![Pug](https://github.com/Vanesa-R/Vanesa-R/blob/main/pug.png)
+
+
+### Proyectos
+- [Contador de palabras online](https://vanesa-r.github.io/online-word-count/)
+- [Calcular propinas online](https://vanesa-r.github.io/tip-calculator-app/)
+- [Landing Pages](https://github.com/Vanesa-R/Practicas-desarrollo/tree/master/Landing%20Pages/clipboard-landing-page-master)
+- [Theme Color para Visual Studio Code](https://marketplace.visualstudio.com/manage/publishers/uve)
 
 ### Resumen
 
