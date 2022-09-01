@@ -4,14 +4,18 @@ Mi nombre es Vanesa y soy Frontend Developer.
 
 
 
-### Lenguajes
+### Conocimientos
+
+#### Lenguajes
 ![HTML](https://github.com/Vanesa-R/Vanesa-R/blob/main/html5.png)
 ![CSS](https://github.com/Vanesa-R/Vanesa-R/blob/main/css.png)
 ![JavaScript](https://github.com/Vanesa-R/Vanesa-R/blob/main/javascript.png)
 
 
+#### Preprocesadores
 ![Sass](https://github.com/Vanesa-R/Vanesa-R/blob/main/sass.png)
 ![Pug](https://github.com/Vanesa-R/Vanesa-R/blob/main/pug.png)
+
 
 
 ### Proyectos
@@ -20,8 +24,13 @@ Mi nombre es Vanesa y soy Frontend Developer.
 - [Landing Pages](https://github.com/Vanesa-R/Practicas-desarrollo/tree/master/Landing%20Pages/clipboard-landing-page-master)
 - [Theme Color para Visual Studio Code](https://marketplace.visualstudio.com/manage/publishers/uve)
 
+
+
 ### Wikis
 - [Sass](https://github.com/Vanesa-R/sass/wiki/Sass)
+
+
+
 ### Resumen
 
 ``` javascript
