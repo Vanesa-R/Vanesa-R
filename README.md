@@ -19,6 +19,7 @@ Mi nombre es Vanesa y soy Frontend Developer.
 
 
 ### Proyectos
+- [Generador de contraseñas online](https://vanesa-r.github.io/password-generator/)
 - [Contador de palabras online](https://vanesa-r.github.io/online-word-count/)
 - [Calcular propinas online](https://vanesa-r.github.io/tip-calculator-app/)
 - [Landing Pages](https://github.com/Vanesa-R/Practicas-desarrollo/tree/master/Landing%20Pages/clipboard-landing-page-master)
@@ -43,10 +44,10 @@ const vanesa = {
     
     skills: {
          languages: ["HTML", "CSS", "JavaScript", "Java", "SQL"],
-         prepocessors: ["Sass", "Pug"],
+         prepocessors: ["Sass", "Less", "Pug"],
          tools: ["VSCode", "Gulp", "Git Bash", "Docker"],
          database: "MySQL",
-         cms: "WordPress",
+         cms: ["AEM", "WordPress"],
     }
 }
 ```
