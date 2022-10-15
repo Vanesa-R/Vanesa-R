@@ -1,6 +1,6 @@
 # ¡Hola! 👋
 
-Mi nombre es Vanesa y soy Frontend Developer.
+Mi nombre es Vanesa y soy Front-end Developer.
 
 
 
