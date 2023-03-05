@@ -43,9 +43,9 @@ const vanesa = {
     },
     
     skills: {
-         languages: ["HTML", "CSS", "JavaScript", "Java", "SQL"],
+         languages: ["HTML", "CSS", "JavaScript", "SQL", "XML"],
          prepocessors: ["Sass", "Less", "Pug"],
-         tools: ["VSCode", "Gulp", "Git Bash", "Docker"],
+         tools: ["VSCode", "Gulp", "Git Bash", "Azure Devops", "Azure Repos", "Figma"],
          database: "MySQL",
          cms: ["AEM", "WordPress"],
     }
