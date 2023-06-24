@@ -12,9 +12,10 @@ Mi nombre es Vanesa y soy Front-end Developer.
 ![JavaScript](https://github.com/Vanesa-R/Vanesa-R/blob/main/javascript.png)
 
 
-#### Preprocesadores
+#### Preprocesadores, frameworks y bibliotecas
 ![Sass](https://github.com/Vanesa-R/Vanesa-R/blob/main/sass.png)
 ![Pug](https://github.com/Vanesa-R/Vanesa-R/blob/main/pug.png)
+![React](https://github.com/Vanesa-R/Vanesa-R/blob/main/react.png)
 
 
 
