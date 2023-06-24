@@ -7,7 +7,7 @@ Mi nombre es Vanesa y soy Front-end Developer.
 ### Conocimientos
 
 #### Lenguajes
-![HTML](https://github.com/Vanesa-R/Vanesa-R/blob/main/html5.png)
+![HTML](https://github.com/Vanesa-R/Vanesa-R/blob/main/html.png)
 ![CSS](https://github.com/Vanesa-R/Vanesa-R/blob/main/css.png)
 ![JavaScript](https://github.com/Vanesa-R/Vanesa-R/blob/main/javascript.png)
 
