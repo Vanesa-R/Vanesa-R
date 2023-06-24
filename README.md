@@ -23,7 +23,6 @@ Mi nombre es Vanesa y soy Front-end Developer.
 - [Generador de contraseñas online](https://vanesa-r.github.io/password-generator/)
 - [Contador de palabras online](https://vanesa-r.github.io/online-word-count/)
 - [Calcular propinas online](https://vanesa-r.github.io/tip-calculator-app/)
-- [Landing Pages](https://github.com/Vanesa-R/Practicas-desarrollo/tree/master/Landing%20Pages/clipboard-landing-page-master)
 - [Theme Color para Visual Studio Code](https://marketplace.visualstudio.com/manage/publishers/uve)
 
 
